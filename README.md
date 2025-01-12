@@ -3,6 +3,11 @@
 # Antecedentes
 * Media vida siendo empresario y dedicandome a construir software.
 * 5 años dedicados a desarrollar algoritmos de inversion en bolsa.
+* Trabajar solo durante varios años es aburrido.
+* Afortunadamente no focalizo mis trabajo por el dinero, el dinero no es el fin, es algo que viene solo cuando haces un buen trabajo.
+
+# Cómo me veo a mi mismo. 
+* 
 
 # Objetivos
 * Descubrir la esencia de la inteligencia artificial
