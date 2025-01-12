@@ -1,69 +1,74 @@
-# Mis principios
+## 🌟 Mis Principios  
 
-# Antecedentes
-* Media vida siendo empresario y dedicandome a construir software.
-* 5 años dedicados a desarrollar algoritmos de inversion en bolsa.
-* Trabajar solo durante varios años es aburrido.
-* Afortunadamente no focalizo mis trabajo por el dinero, el dinero no es el fin, es algo que viene solo cuando haces un buen trabajo.
+### 🛤️ Antecedentes  
+- He pasado media vida como empresario, dedicado a construir software.  
+- Los últimos 5 años los he enfocado en desarrollar algoritmos de inversión en bolsa.  
+- Trabajar solo durante varios años es una experiencia que se torna aburrida.  
+- Por fortuna, no trabajo por el dinero. Para mí, el dinero no es el fin, es una consecuencia natural de hacer un buen trabajo.  
 
-# Cómo me veo a mi mismo. 
-* 
+### 🎯 Objetivos  
+- Descubrir la esencia de la inteligencia artificial.  
+- Hacerlo acompañado, porque las grandes ideas crecen mejor en equipo.  
 
-# Objetivos
-* Descubrir la esencia de la inteligencia artificial
-* Hacerlo en compañía
+### 📚 Planes Actuales  
+- Finalizar mi tesis doctoral.  
+- Participar en convocatorias para trabajos de investigación.  
+- Perfeccionar mi inglés.  
 
-# Planes Actuales
-* Terminar mi tesis doctoral
-* Concursar a trabajos de investigación
-* Perfeccionar mi ingés.
+### 🔮 Planes Futuros  
+- De momento, no planeo optar por una plaza de profesor; preparar clases consume demasiado tiempo que podría dedicar a la investigación.  
+- Tampoco tengo interés en volver a ser empresario; prefiero centrarme en la parte técnica, que es lo que realmente me apasiona.  
+- Idealmente, me gustaría formar parte o liderar un departamento en una gran empresa cuyos objetivos estén alineados con mis intereses.  
 
-# Planes Futuros
-* De momento no opto a una plaza de profesor, la preparacion de las clases resta mucho tiempo de investigación
-* Descarto volver a ser empresario, el tiempo es limitado y me quiero centrar en la parte técnica
-* Idealmente me gustaría formar parte o conformar un departamento de una gran empresa cuyo fin coincidan con mis intereses.
+---
 
-# Forma de trabajo
-* Ir a la facultad solo cuando tenga reunion
-* Lean: Empezar los papers desde la presentación, manuscrito, programación.
-* Reciprocidad priorizar trabajos definidos y reciprocidad.
-* Trabajar todo el día intercalado unos minutos de microjuegos y meditación.
+## 🛠️ Mi Forma de Trabajo  
+- Ir a la facultad únicamente para reuniones.  
+- Trabajo **lean**: empiezo los papers desde la presentación, pasando por manuscritos y programación.  
+- Priorizo trabajos bien definidos y donde exista reciprocidad en el esfuerzo.  
+- Organizo mis días intercalando trabajo intenso con pequeños descansos, microjuegos y meditación.  
 
-# Qué busco de una colaboración
-* Iteración
-* Complementariedad
-* No me gusta el rol de profesor
+---
 
-# Creencias
-* Lo mas importante de la IA es el sistema de aprendizaje
-* El sistema de aprendizaje puede ser universal
+## 🤝 ¿Qué Busco en una Colaboración?  
+- Iteración constante.  
+- Complementariedad de habilidades.  
+- Evitar el rol de profesor, ya que no es algo que me motive.  
 
-# Colaboraciones actuales
-Por orden de reunion.
-* Daniel Cagigas. Trabajando en https://github.com/daradija/gecco
-* Fernando Díaz. Integrando algoritmo de conducción
-* Jose Luís Guisado. Cerrándo proyecto Sanevec.
-* Maria José. Buscando colaboraciones, quizá grafos o redes neuronales.
-* Fernando de la Rosa. Compartiendo intereses en bolsa.
-* Jose Fco. Quesada. Pendiente de primer brain storming.
-* José Carderón. Audando ideas.
-* David Gonzalez. Pendiente de definir forma de trabajo.
-* Santiago. Péndulo invertido por regresión múltiple. 
-* Curro. 
-* Daniel Cascado
+---
 
-# ¿Cómo va la bolsa?
-* Actualmente estoy invertido pero no tengo un algoritmo de rotacion de acciones.
-* Me dí cuenta que estaba trabajando para mi dinero y no viceversa.
-* No descarto en el futuro volver a una rotacion activa.
-* He hecho varios experimentos pero no hay predecibilidad.
-* Desarrollé un coeficiente AR y descubrí que la estrategia era impredecible.
-* He probado redes neuronales con recurrencia, convolucionales y son impredecibles también.
-* Me faciné por la teoría de Minority Game, pero tras profundizar en su estudio veo que no dan una respuesta satisfactoria a la predecibilidad.
+## 💭 Creencias  
+- Lo más importante en inteligencia artificial es el sistema de aprendizaje.  
+- Creo firmemente que un sistema de aprendizaje universal es posible.  
 
-# Impresiones de la universidad 
-* Desde mi punto de vista, empresario 24 años, un profesor es una persona que trabaja en un entorno que no le permite concentrarse en una investigación.
-* En general, hay excepciones, son pocos los que valoran, cultivan el arte de programar.
+---
 
-# Conclusiones
-Después de unos 20 meses en la universidad reconozco que no es el ideal.
+## 🔗 Colaboraciones Actuales  
+(Por orden de reuniones):  
+- **Daniel Cagigas**: Trabajando en [este proyecto](https://github.com/daradija/gecco).  
+- **Fernando Díaz**: Integración de un algoritmo de conducción.  
+- **José Luis Guisado**: Cerrando el proyecto Sanevec.  
+- **María José**: Explorando posibles colaboraciones en grafos o redes neuronales.  
+- **Fernando de la Rosa**: Compartiendo intereses relacionados con la bolsa.  
+- **José Fco. Quesada**: Primera sesión de brainstorming pendiente.  
+- **José Calderón**: Intercambio de ideas.  
+- **David González**: A definir forma de trabajo.  
+- **Santiago**: Trabajando en un péndulo invertido con regresión múltiple.  
+- **Curro y Daniel Cascado**: Pendientes de definir proyectos concretos.  
+
+---
+
+## 📈 ¿Cómo Va la Bolsa?  
+- Actualmente estoy invertido, pero no cuento con un algoritmo de rotación de acciones.  
+- Descubrí que estaba trabajando para mi dinero, en lugar de que mi dinero trabajara para mí.  
+- No descarto volver a una rotación activa en el futuro.  
+- A pesar de varios experimentos, no he encontrado predecibilidad en las estrategias:  
+  - Desarrollé un coeficiente AR, pero resultó impredecible.  
+  - Probé redes neuronales (recurrencia, convolucionales) y obtuve el mismo resultado.  
+- Me intrigó la teoría del **Minority Game**, pero, tras estudiarla a fondo, concluí que no ofrece respuestas satisfactorias para la predecibilidad.  
+
+---
+
+## 🎓 Impresiones de la Universidad  
+- Desde mi experiencia como empresario (24 años), veo a los profesores como personas que trabajan en un entorno que no siempre facilita la concentración en la investigación.  
+- En general, son pocos los que valoran y cultivan el arte de programar. Claro, siempre hay excepciones, pero estas son raras.  
