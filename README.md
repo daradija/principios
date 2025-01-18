@@ -46,7 +46,8 @@
 
 ## 🔗 Colaboraciones Actuales  
 (Por orden de reuniones):  
-- **Daniel Cagigas**: Trabajando en [este proyecto](https://github.com/daradija/gecco).  
+- **Daniel Cagigas**: Trabajando en [este proyecto](https://github.com/daradija/gecco).
+- **Jiali**: Uniendo optimización y simulacion.
 - **Fernando Díaz**: Integración de un algoritmo de conducción.  
 - **José Luis Guisado**: Cerrando el proyecto Sanevec.  
 - **María José**: Explorando posibles colaboraciones en grafos o redes neuronales.  
