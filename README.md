@@ -39,7 +39,8 @@
 
 ## 💭 Creencias  
 - Lo más importante en inteligencia artificial es el sistema de aprendizaje.  
-- Creo firmemente que un sistema de aprendizaje universal es posible.  
+- Creo firmemente que un sistema de aprendizaje universal es posible.
+- Modelo = Sistema Ecuaciones. Igual que un sistema de ecuaciones se resuelve, creo que los parámetros de un modelo pueden ser deducibles. Así mismo podemos abordar el meta aprendizaje (como aprender a deducir). Un programa sería ese conocimiento.   
 
 ---
 
@@ -54,7 +55,8 @@
 - **José Calderón**: Intercambio de ideas.  
 - **David González**: A definir forma de trabajo.  
 - **Santiago**: Trabajando en un péndulo invertido con regresión múltiple.  
-- **Curro y Daniel Cascado**: Pendientes de definir proyectos concretos.  
+- **Curro/Javi/Luis**: Un proyecto educativo usando LLM.
+- **Daniel Cascado**: Empezó a programar con GPU, pero actualmente sin tiempo.  
 
 ---
 
