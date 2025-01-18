@@ -1,5 +1,10 @@
 ## 🌟 Mis Principios  
 
+### Trabajo en curso por prioridad
+- Preparando Gecco 2025 un congreso de algoritmos genéticos. (Daniel Cagigas/Maria José)
+- Recordar FPGA (Alejandro)
+- Empezar la unión de optimización y simulacion mediante autodiferección y pseudogradientes (Jiali)
+
 ### 🛤️ Antecedentes  
 - He pasado media vida como empresario, dedicado a construir software.  
 - Los últimos 5 años los he enfocado en desarrollar algoritmos de inversión en bolsa.  
@@ -46,12 +51,12 @@
 
 ## 🔗 Colaboraciones Actuales  
 (Por orden de reuniones):  
-- **Daniel Cagigas**: Trabajando en [este proyecto](https://github.com/daradija/gecco).
+- **Daniel Cagigas/Marnía José**: Trabajando en [este proyecto](https://github.com/daradija/gecco).
+- **Alejandro**: Quiero medir la latencia de una FPGA, y ver si son mas eficientes que las GPUs.
 - **Jiali**: Uniendo optimización y simulacion.
 - **Fernando Díaz**: Integración de un algoritmo de conducción.  
 - **José Luis Guisado**: Cerrando el proyecto Sanevec.  
-- **María José**: Explorando posibles colaboraciones en grafos o redes neuronales.  
-- **Fernando de la Rosa**: Compartiendo intereses relacionados con la bolsa.  
+- **Fernando de la Rosa**: Pendiente una sesión de pair programming. Le he propuesto un modelo de negocio de simulacion tipo Minority Game y parcialmente abierto (open source).  
 - **José Fco. Quesada**: Primera sesión de brainstorming pendiente.  
 - **José Calderón**: Intercambio de ideas.  
 - **David González**: A definir forma de trabajo.  
