@@ -4,12 +4,14 @@
 - Preparando Gecco 2025 un congreso de algoritmos genéticos. (Daniel Cagigas/Maria José)
 - Plantearme hacer un procesador especifico con FPGA (Alejandro)
 - [Empezar la unión de optimización y simulacion mediante autodiferección y pseudogradientes](https://github.com/daradija/jiali25/)
+- El lunes me reuno con una empresa de formación en bolsa.
 
 ### 🛤️ Antecedentes  
 - He pasado media vida como empresario, dedicado a construir software.  
 - Los últimos 5 años los he enfocado en desarrollar algoritmos de inversión en bolsa.  
 - Trabajar solo durante varios años es una experiencia que se torna aburrida.  
-- Por fortuna, no trabajo por el dinero. Para mí, el dinero no es el fin, es una consecuencia natural de hacer un buen trabajo.  
+- Por fortuna, no trabajo por el dinero. Para mí, el dinero no es el fin, es una consecuencia natural de hacer un buen trabajo.
+- Hay que saber disfrutar el camino, estar abierto a aprovechar las oportunidades, las oportunidades no tienen un lazo rojo, hay que estar abierto en los acercamientos.
 
 ### 🎯 Objetivos  
 - Descubrir la esencia de la inteligencia artificial.  
@@ -81,4 +83,5 @@
 
 ## 🎓 Impresiones de la Universidad  
 - Desde mi experiencia como empresario (24 años), veo a los profesores como personas que trabajan en un entorno que no siempre facilita la concentración en la investigación.  
-- En general, son pocos los que valoran y cultivan el arte de programar. Claro, siempre hay excepciones, pero estas son raras.  
+- En general, son pocos los que valoran y cultivan el arte de programar. Claro, siempre hay excepciones.
+- La interactividad en el trabajo es lo que mas hecho de menos de la empresa privada. Compartir un código, trabajar juntos. Es algo que se da pero en una proporción de unas 3/4 horas a la semana. Frente a las 3 horas diarias que venía haciendo con la empresa, es algo que hecho de menos.  
