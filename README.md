@@ -59,7 +59,7 @@
 - **Jiali**: Uniendo optimización y simulacion.
 - **Fernando Díaz**: Integración de un algoritmo de conducción.  
 - **José Luis Guisado**: Cerrando el proyecto Sanevec.  
-- **Fernando de la Rosa**: Pendiente una sesión de pair programming. Le he propuesto un modelo de negocio de simulacion tipo Minority Game y parcialmente abierto (open source).  
+- **Fernando de la Rosa**: Pendiente una sesión de pair programming. Le he propuesto un [modelo de negocio de simulacion tipo Minority Game y parcialmente abierto (open source)](https://github.com/daradija/rosrag).  
 - **José Fco. Quesada**: Primera sesión de brainstorming pendiente.  
 - **José Calderón**: Intercambio de ideas.  
 - **David González**: A definir forma de trabajo.  
