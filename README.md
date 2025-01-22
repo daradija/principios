@@ -2,8 +2,8 @@
 
 ### Trabajo en curso por prioridad
 - Preparando Gecco 2025 un congreso de algoritmos genéticos. (Daniel Cagigas/Maria José)
-- Recordar FPGA (Alejandro)
-- Empezar la unión de optimización y simulacion mediante autodiferección y pseudogradientes (Jiali)
+- Plantearme hacer un procesador especifico con FPGA (Alejandro)
+- [Empezar la unión de optimización y simulacion mediante autodiferección y pseudogradientes] (https://github.com/daradija/jiali25/)
 
 ### 🛤️ Antecedentes  
 - He pasado media vida como empresario, dedicado a construir software.  
@@ -18,7 +18,8 @@
 ### 📚 Planes Actuales  
 - Finalizar mi tesis doctoral.  
 - Participar en convocatorias para trabajos de investigación.  
-- Perfeccionar mi inglés.  
+- Perfeccionar mi inglés.
+- A medio o largo plazo participar en un proyecto empresarial. Ya no tengo la ambición de poser toda la empresa, es mas me quiero ceñir a una funcion técnica. Idealmente formar un departamento con socios.
 
 ### 🔮 Planes Futuros  
 - De momento, no planeo optar por una plaza de profesor; preparar clases consume demasiado tiempo que podría dedicar a la investigación.  
@@ -73,7 +74,8 @@
 - A pesar de varios experimentos, no he encontrado predecibilidad en las estrategias:  
   - Desarrollé un coeficiente AR, pero resultó impredecible.  
   - Probé redes neuronales (recurrencia, convolucionales) y obtuve el mismo resultado.  
-- Me intrigó la teoría del **Minority Game**, pero, tras estudiarla a fondo, concluí que no ofrece respuestas satisfactorias para la predecibilidad.  
+- Me intrigó la teoría del **Minority Game**, pero, tras estudiarla a fondo, concluí que no ofrece respuestas satisfactorias para la predecibilidad.
+- Actualmente tengo resultados positivos con técnicas novedosas con redes neuronales, en concreto con autodiferenciación, modo forward y prunning. No descarto probarlas en un futuro inmediato.
 
 ---
 
