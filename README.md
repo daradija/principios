@@ -77,11 +77,11 @@
   - Desarrollé un coeficiente AR, pero resultó impredecible.  
   - Probé redes neuronales (recurrencia, convolucionales) y obtuve el mismo resultado.  
 - Me intrigó la teoría del **Minority Game**, pero, tras estudiarla a fondo, concluí que no ofrece respuestas satisfactorias para la predecibilidad.
-- Actualmente tengo resultados positivos con técnicas novedosas con redes neuronales, en concreto con autodiferenciación, modo forward y prunning. No descarto probarlas en un futuro inmediato.
+- Actualmente tengo resultados positivos con técnicas novedosas con redes neuronales, en concreto con autodiferenciación, modo forward y prunning. No descarto probarlas en un futuro inmediato. (https://github.com/daradija/gecco y https://github.com/daradija/dinamic-pruning-in-forward-mode)
 
 ---
 
 ## 🎓 Impresiones de la Universidad  
 - Desde mi experiencia como empresario (24 años), veo a los profesores como personas que trabajan en un entorno que no siempre facilita la concentración en la investigación.  
 - En general, son pocos los que valoran y cultivan el arte de programar. Claro, siempre hay excepciones.
-- La interactividad en el trabajo es lo que mas hecho de menos de la empresa privada. Compartir un código, trabajar juntos. Es algo que se da pero en una proporción de unas 3/4 horas a la semana. Frente a las 3 horas diarias que venía haciendo con la empresa, es algo que hecho de menos.  
+- La interactividad en el trabajo es lo que mas hecho de menos de la empresa privada. Compartir un código, trabajar juntos. Es algo que se da pero en una proporción de unas 3 horas a la semana. Frente a las 3 horas diarias que venía haciendo con la empresa, es algo que hecho de menos.  
