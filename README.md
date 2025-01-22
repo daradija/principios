@@ -3,7 +3,7 @@
 ### Trabajo en curso por prioridad
 - Preparando Gecco 2025 un congreso de algoritmos genéticos. (Daniel Cagigas/Maria José)
 - Plantearme hacer un procesador especifico con FPGA (Alejandro)
-- [Empezar la unión de optimización y simulacion mediante autodiferección y pseudogradientes] (https://github.com/daradija/jiali25/)
+- [Empezar la unión de optimización y simulacion mediante autodiferección y pseudogradientes](https://github.com/daradija/jiali25/)
 
 ### 🛤️ Antecedentes  
 - He pasado media vida como empresario, dedicado a construir software.  
