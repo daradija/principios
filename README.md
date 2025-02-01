@@ -20,7 +20,7 @@
 - Finalizar mi tesis doctoral.  
 - Participar en convocatorias para trabajos de investigación.  
 - Perfeccionar mi inglés.
-- A medio o largo plazo participar en un proyecto empresarial. Ya no tengo la ambición de poser toda la empresa, es mas me quiero ceñir a una funcion técnica. Idealmente formar un departamento con socios.
+- A medio o largo plazo participar en un proyecto empresarial. Ya no tengo la ambición de poser toda la empresa, es mas me quiero ceñir a una funcion técnica. 
 
 ### 🔮 Planes Futuros  
 - De momento, no planeo optar por una plaza de profesor; preparar clases consume demasiado tiempo que podría dedicar a la investigación.  
