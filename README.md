@@ -1,10 +1,9 @@
 ## 🌟 Mis Principios  
 
 ### Trabajo en curso por prioridad
-- Preparando Gecco 2025 un congreso de algoritmos genéticos. (Daniel Cagigas/Maria José)
 - Plantearme hacer un procesador especifico con FPGA (Alejandro)
 - [Empezar la unión de optimización y simulacion mediante autodiferección y pseudogradientes](https://github.com/daradija/jiali25/)
-- El lunes me reuno con una empresa de formación en bolsa.
+- Solicitar CV por linkedIn por si surge algo interesante.
 
 ### 🛤️ Antecedentes  
 - He pasado media vida como empresario, dedicado a construir software.  
