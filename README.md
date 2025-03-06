@@ -3,6 +3,7 @@
 ### Trabajo en curso por prioridad
 - Migrar de Python a Julia código eficiente de autodiferenciación para abordar una red neuronal convulucional.
 - Acoplar el transformer con gramáticas, vamos, unir el mundo de los LLM con los sistemas expertos o programación lógica.
+- Terminar la trayectoria del brazo robótico con evitación de obstáculos.
 
 ### Mi historia como informático
 Voy a compartir mi historia como informático, destacando mis logros profesionales; algo que normalmente no hago en mi vida cotidiana, pero que por razones curriculares es importante.
