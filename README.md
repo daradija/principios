@@ -1,10 +1,5 @@
 ## 🌟 Mis Principios  
 
-### Trabajo en curso por prioridad
-- Migrar de Python a Julia código eficiente de autodiferenciación para abordar una red neuronal convulucional.
-- Acoplar el transformer con gramáticas, vamos, unir el mundo de los LLM con los sistemas expertos o programación lógica.
-- Terminar la trayectoria del brazo robótico con evitación de obstáculos.
-
 ### Mi historia como informático
 Voy a compartir mi historia como informático, destacando mis logros profesionales; algo que normalmente no hago en mi vida cotidiana, pero que por razones curriculares es importante.
 
@@ -41,6 +36,11 @@ Cierro la empresa, me lleva un año, y decido buscar un trabajo de investigador 
 Esta idea sería falsa, en la Universidad entro en un proyecto que al principio estoy solo. Y luego cuando vienen compañeros, estos no buscan trabajar en equipo o no tienen capacidad y abusan del teletrabajo, no me gustan el resultado final. Cubro una baja paternal pero no me termina de gustar la docencia. En concreto, implantir la clase me gusta, pero prepararla no. Ya que no hay libertad de cátedra. Tampoco hay espíritu de mejora ni de puesta en común. Los profesores realmente no trabajan para los alumnos, su incentivo o foco está en la burocracia que les hace ganar un poco mas, sesenios, artículos oposición a plaza. Una cuestión que me llama la atención es que en los desayunos nadie habla de: Mira lo que he descubierto.
 
 Actualmente busco reincorporarme a la empresa privada, enfocado exclusivamente en la parte técnica. Mi deseo sería unir mi experiencia en desarrollo de software con sistemas expertos y los modelos LLM (Modelos de Lenguaje Grande).
+
+### Trabajo en curso por prioridad
+- Migrar de Python a Julia código eficiente de autodiferenciación para abordar una red neuronal convulucional.
+- Acoplar el transformer con gramáticas, vamos, unir el mundo de los LLM con los sistemas expertos o programación lógica.
+- Terminar la trayectoria del brazo robótico con evitación de obstáculos.
 
 ### 🎯 Objetivos  
 - Descubrir la esencia de la inteligencia artificial.  
